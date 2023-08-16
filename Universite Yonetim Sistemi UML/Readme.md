@@ -11,3 +11,5 @@ Bu proje, bir üniversite yönetim sisteminin temel bir simülasyonunu içerir. 
 3 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 
 4 - Her çalışan bir ofiste çalışır.
+
+![Universite Yonetim Sistemi UML](https://github.com/Ebru-Nur/blob/main/Universite Yonetim Sistemi UML/ÜniversiteYönetim Sistemi.png?raw=true)
